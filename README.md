@@ -1,8 +1,10 @@
-# Notebook Eksplorasi Dataset _Coffee Shop_
+# Eksplorasi Dataset _Coffee Shop_
 
 Hi, ini adalah _repository_ yang memuat salah satu proyek dataku, yakni melakukan eksplorasi data pada dataset bisnis _coffee shop_. Dalam prosesnya, ditemukan beberapa fakta-fakta unik dan menarik mengenai bisnis _coffee shop_ tersebut, yang bisa dilihat dalam notebook yang disediakan.
 
 **Blog post:** https://www.feliciasantoso.me/blog/2022/notebook-baru-exploring-coffee-shop-dataset
+
+**[NEW - Sekarang ada dashboard Power BI juga!](/dashboard)**
 
 ## Background
 
