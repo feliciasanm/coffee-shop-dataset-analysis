@@ -4,7 +4,7 @@ Hi, ini adalah _repository_ yang memuat salah satu proyek dataku, yakni melakuka
 
 **Blog post:** https://www.feliciasantoso.me/blog/2022/notebook-baru-exploring-coffee-shop-dataset
 
-**[NEW - Sekarang ada dashboard Power BI juga!](/dashboard)**
+**NEW - Sekarang ada [PPT](https://drive.google.com/file/d/1RbyNvvdmwFp4Jj9T1dIhexfhZIxkb6QN/view?usp=sharing) dan [dashboard Power BI](/dashboard) juga!**
 
 ## Background
 
